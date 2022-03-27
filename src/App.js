@@ -1,16 +1,18 @@
+import React from "react";
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        Dictionary App
-        <a href="#" className="btn btn-primary">
-          Don't Push Me
-        </a>
-      </header>
+      <div className="container-md">
+        <header className="App-header">
+          Dictionary App
+          <a href="#" className="btn btn-primarynom">
+            Don't Push Me
+          </a>
+          <i class="bi bi-binoculars"></i>
+        </header>
+      </div>
     </div>
   );
 }
-
-export default App;
