@@ -7,7 +7,10 @@ export default function App() {
       <div className="container-md">
         <header className="App-header">
           Dictionary App
-          <a href="#" className="btn btn-primarynom">
+          <a
+            href="https://github.com/sanjra/dictionary-reactproject"
+            className="btn btn-primarynom"
+          >
             Don't Push Me
           </a>
           <i class="bi bi-binoculars"></i>
