@@ -12,7 +12,7 @@ export default function Footer() {
       >
         <a
           type="button"
-          className="btn btn-outline-light btn-sml"
+          className="btn btn-outline-dark btn-sm"
           href="https://github.com/sanjra/dictionary-reactproject"
           target="_blank"
           rel="noopener noreferrer"
@@ -21,7 +21,7 @@ export default function Footer() {
         </a>
         <a
           type="button"
-          className="btn btn-outline-light btn-sml"
+          className="btn btn-outline-light btn-sm"
           href="https://app.netlify.com/sites/jade-taiyaki-fd4ba3/overview"
           target="_blank"
           rel="noopener noreferrer"
