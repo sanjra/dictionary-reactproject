@@ -4,7 +4,7 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <div className="Footer">
-        <span>Coded By Sanjra</span>
+      <span>Coded By Sanjra</span>
       <div
         className="btn-group"
         role="group"
@@ -12,7 +12,7 @@ export default function Footer() {
       >
         <a
           type="button"
-          className="btn btn-outline-primary"
+          className="btn btn-outline-light btn-sml"
           href="https://github.com/sanjra/dictionary-reactproject"
           target="_blank"
           rel="noopener noreferrer"
@@ -21,7 +21,7 @@ export default function Footer() {
         </a>
         <a
           type="button"
-          className="btn btn-outline-primary"
+          className="btn btn-outline-light btn-sml"
           href="https://app.netlify.com/sites/jade-taiyaki-fd4ba3/overview"
           target="_blank"
           rel="noopener noreferrer"
