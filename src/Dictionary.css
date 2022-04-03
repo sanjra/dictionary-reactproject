@@ -4,3 +4,24 @@
   align-items: center;
   justify-content: center;
 }
+
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 1.7em 1.7em #f1e7cc;
+  margin: 20px 0;
+}
+
+.Dictionary input {
+  width: 100%;
+  border-radius: 6px;
+  padding: 6px 10px;
+  color: #333;
+  border: 1px solid #ddd;
+}
+
+.Dictionary .hint {
+  font-size: 11px;
+  margin-top: 10px;
+}

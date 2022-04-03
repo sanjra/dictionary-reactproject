@@ -6,10 +6,14 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <div className="container-md">
+      <div className="container">
         <header className="App-header">Dictionary App</header>
-        <Dictionary />
-        <Footer />
+        <main>
+          <Dictionary defaultKeyword="forest" />
+        </main>
+        <footer>
+          <Footer />
+        </footer>
       </div>
     </div>
   );

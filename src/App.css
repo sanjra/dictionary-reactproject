@@ -1,9 +1,17 @@
-.App {
+body {
   background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
+a {
+  color: #9670f4;
+}
+
 .App-header {
   text-align: center;
   background-color: #282c34;
+  border-radius: 50px;
   padding: 10px 0;
   font-size: calc(30px + 2vmin);
   color: white;
