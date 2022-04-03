@@ -1,12 +1,13 @@
 .Phonetic {
-  height: 30px;
+  margin: 20px 0;
 }
+
 .Phonetic a {
   border: 1px solid #ddd;
   text-decoration: none;
   margin-right: 10px;
-  padding: 10px 10px;
-  font-size: 10px;
+  padding: 8px 15px;
+  font-size: 12px;
   font-weight: bold;
   border-radius: 20px;
   transition: all 150ms ease-in-out;
